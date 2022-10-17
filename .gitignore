@@ -32,6 +32,9 @@ tags
 # YouCompleteMe config stuff.
 .ycm_extra_conf.*
 
+# CCLS
+.ccls-cache
+
 #OSX Stuff
 .DS_Store
 
